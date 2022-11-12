@@ -3,7 +3,7 @@
 ### Trebnie.xml
 Trebnie.xml is the Theme that I use in Notepad++. <br>
 It's based on the Theme: Solarized by Ethan Schoonover<br>
-![alt text](https://github.com/bertman80/notepad-plus-plus/blob/main/Trebnie.xml.png?raw=true)<br>
+![alt text](https://github.com/bertman80/notepad-plus-plus/blob/main/Trebnie.xml_new.png?raw=true)<br>
 
 ```
 Just copy the file to the theme directory, by default: C:\Program Files\Notepad++\themes
